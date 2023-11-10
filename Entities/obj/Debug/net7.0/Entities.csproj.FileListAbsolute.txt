@@ -1,0 +1,12 @@
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/bin/Debug/net7.0/Entities.dll
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/obj/Debug/net7.0/Entities.dll
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/fatihdemirag/Desktop/CSharp/Entities/Entities/obj/Debug/net7.0/ref/Entities.dll

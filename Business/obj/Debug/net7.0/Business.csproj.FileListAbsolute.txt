@@ -1,0 +1,17 @@
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/bin/Debug/net7.0/Business.deps.json
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/bin/Debug/net7.0/Business.dll
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/bin/Debug/net7.0/Business.pdb
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/bin/Debug/net7.0/Entities.dll
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/bin/Debug/net7.0/Entities.pdb
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/obj/Debug/net7.0/Business.dll
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/obj/Debug/net7.0/Business.pdb
+/Users/fatihdemirag/Desktop/CSharp/Entities/Business/obj/Debug/net7.0/ref/Business.dll
